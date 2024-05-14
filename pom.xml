@@ -824,7 +824,7 @@
                 <profile.test>testdev</profile.test>
                 <liquibase-plugin.url>jdbc:mysql://localhost:3306/apiWebsocket</liquibase-plugin.url>
                 <liquibase-plugin.username>root</liquibase-plugin.username>
-                <liquibase-plugin.password>allanrafaela123</liquibase-plugin.password>
+                <liquibase-plugin.password>root</liquibase-plugin.password>
             </properties>
             <dependencies>
                 <dependency>
