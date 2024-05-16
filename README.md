@@ -18,5 +18,5 @@ when you see this
 
 its ready !
 
-To access the active conections (admin, admin the application automatic  create this user  )
+To access the active connections (admin, admin the application automatic  create this user  )
 http://localhost:8080/admin/tracker
